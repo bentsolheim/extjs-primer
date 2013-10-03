@@ -11,9 +11,14 @@ Download test data to ./data:
 
 Download router user extension in /lib folder:
 
+    mkdir lib
+    cd lib
     curl https://raw.github.com/brunotavares/Ext.ux.Router/master/Router.js -o Router.js
+
+Add lib to `.sencha/app/sencha.cfg`
+
+    app.classpath=${app.dir}/app,${app.dir}/app.js,${app.dir}/lib
 
 Refresh app:
 
-    sencha app update
-
+    sencha app refresh

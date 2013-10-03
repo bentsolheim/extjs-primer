@@ -6,13 +6,20 @@
  */
 Ext.Loader.addClassPathMappings({
   "Channels": "app",
+  "Channels.store.Channels": "app/store/Channels.js",
+  "Channels.view.Channels": "app/view/Channels.js",
   "Ext": "ext/src",
   "Ext.Msg": "ext/src/window/MessageBox.js",
-  "Ext.rtl.EventObjectImpl": "ext/src/rtl/EventObject.js"
+  "Ext.rtl.EventObjectImpl": "ext/src/rtl/EventObject.js",
+  "Ext.ux.Router": "lib/Router.js"
 });
 Ext.ClassManager.addNameAlternateMappings({
   "Channels.Application": [],
+  "Channels.controller.Channel": [],
   "Channels.controller.Main": [],
+  "Channels.model.Channel": [],
+  "Channels.store.Channels": [],
+  "Channels.view.Channels": [],
   "Channels.view.Main": [],
   "Channels.view.Viewport": [],
   "Ext.AbstractComponent": [],
@@ -767,6 +774,9 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.ux.LiveSearchGridPanel": [],
   "Ext.ux.PreviewPlugin": [],
   "Ext.ux.ProgressBarPager": [],
+  "Ext.ux.Router": [
+    "Ext.Router"
+  ],
   "Ext.ux.RowExpander": [],
   "Ext.ux.SlidingPager": [],
   "Ext.ux.Spotlight": [],
@@ -834,7 +844,13 @@ Ext.ClassManager.addNameAlternateMappings({
 });
 Ext.ClassManager.addNameAliasMappings({
   "Channels.Application": [],
+  "Channels.controller.Channel": [],
   "Channels.controller.Main": [],
+  "Channels.model.Channel": [],
+  "Channels.store.Channels": [],
+  "Channels.view.Channels": [
+    "widget.channels-view"
+  ],
   "Channels.view.Main": [
     "widget.app-main"
   ],
@@ -1719,6 +1735,7 @@ Ext.ClassManager.addNameAliasMappings({
     "plugin.preview"
   ],
   "Ext.ux.ProgressBarPager": [],
+  "Ext.ux.Router": [],
   "Ext.ux.RowExpander": [],
   "Ext.ux.SlidingPager": [],
   "Ext.ux.Spotlight": [],

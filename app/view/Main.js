@@ -15,10 +15,22 @@ Ext.define('Channels.view.Main', {
         region: 'west',
         xtype: 'panel',
         title: 'west',
-        width: 150
+        width: 150,
+
+        html: '<ul><li><a href="#/">Dashboard</a></li><li><a href="#/channels">Channels</a></li></ul>'
     },{
         region: 'center',
-        layout: 'fit',
-        xtype: 'channels-view'
+        layout: 'card',
+        cls: 'main-view',
+        items: [
+            {
+                id: 'dashboard-view',
+                html: 'HEI'
+            },
+            {
+                id: 'channels-view',
+                xtype: 'channels-view'
+            }
+        ]
     }]
 });

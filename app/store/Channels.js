@@ -1,7 +1,5 @@
 Ext.define('Channels.store.Channels', {
     extend: 'Ext.data.Store',
 
-    model: 'Channels.model.Channel',
-
-    autoLoad: true
+    model: 'Channels.model.Channel'
 });

@@ -4,7 +4,8 @@ Ext.define('Channels.Application', {
     extend: 'Ext.app.Application',
 
     requires: [
-        'Ext.window.MessageBox'
+        'Ext.window.MessageBox',
+        'Ext.ux.Router'
     ],
 
     views: [
@@ -12,10 +13,16 @@ Ext.define('Channels.Application', {
     ],
 
     controllers: [
+        'Dashboard',
         'Channel'
     ],
 
     stores: [
         'Channels'
-    ]
+    ],
+
+    routes: {
+        '/': 'dashboard#index',
+        '/channels': 'channel#index'
+    }
 });

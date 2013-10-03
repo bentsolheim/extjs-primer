@@ -1,6 +1,10 @@
 Ext.define('Channels.controller.Channel', {
     extend: 'Ext.app.Controller',
 
+    refs: [
+        { ref: 'mainView', selector: "[cls='main-view']" }
+    ],
+
     init: function () {
 
         this.control({
@@ -10,6 +14,15 @@ Ext.define('Channels.controller.Channel', {
         });
 
         this.callParent(arguments);
+    },
+
+
+    index: function() {
+
+        var cardLayout = this.getMainView().getLayout();
+        cardLayout.setActiveItem('channels-view');
+
+        Ext.getStore('Channels').load();
     },
 
 
