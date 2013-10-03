@@ -3,12 +3,16 @@ Ext.define('Channels.Application', {
 
     extend: 'Ext.app.Application',
 
+    requires: [
+        'Ext.window.MessageBox'
+    ],
+
     views: [
-        // TODO: add views here
+        'Channels'
     ],
 
     controllers: [
-        // TODO: add controllers here
+        'Channel'
     ],
 
     stores: [

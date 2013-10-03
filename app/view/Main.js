@@ -18,9 +18,7 @@ Ext.define('Channels.view.Main', {
         width: 150
     },{
         region: 'center',
-        xtype: 'tabpanel',
-        items:[{
-            title: 'Center Tab 1'
-        }]
+        layout: 'fit',
+        xtype: 'channels-view'
     }]
 });

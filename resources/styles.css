@@ -1,0 +1,13 @@
+.channel {
+    float: left;
+    border: 1px solid black;
+    width: 150px;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    background: white;
+}
+
+.channel .title {
+    font-weight: bold;
+}

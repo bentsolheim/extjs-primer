@@ -1,7 +1,14 @@
 Ext.define('Channels.model.Channel', {
     extend: 'Ext.data.Model',
 
-    fields: ['title', 'type', { name: 'active', type: 'boolean' }],
+    fields: [
+        'title',
+        'type',
+        { name: 'active', type: 'boolean' },
+        { name: 'logoUrl', convert: function (value, record) {
+            return record.raw.resources['logo-button'];
+        } }
+    ],
 
     proxy: {
         type: 'rest',
