@@ -11,3 +11,8 @@
 .channel .title {
     font-weight: bold;
 }
+
+.channel:hover {
+    background: #eeeeee;
+    cursor: pointer;
+}
