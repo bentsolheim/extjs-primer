@@ -12,6 +12,6 @@ Ext.define('Channels.Application', {
     ],
 
     stores: [
-        // TODO: add stores here
+        'Channels'
     ]
 });
