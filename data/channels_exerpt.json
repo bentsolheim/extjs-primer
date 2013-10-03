@@ -1,0 +1,1004 @@
+{
+    "items": [
+        {
+            "id": "9404ea91-5647-4f87-a5ce-9e034d0117f3",
+            "firstCreated": "20130917153326",
+            "version": 2,
+            "lastModified": "20130917164759",
+            "active": true,
+            "title": "1 TV Georgia",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "b802a84a-c66b-4799-ad2a-0404ec764a80",
+                    "version": 1,
+                    "dateCreated": "20130917164759",
+                    "lastModified": "20130917164759",
+                    "alias": "1 TV GEORGIA",
+                    "countryCode": "TR",
+                    "facilityId": "13b4d7ee-1739-4caa-83b1-c78abb4f3b29",
+                    "facilityName": "\u00C7\u0131ra\u011Fan Palace Kempinski Hotel"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/9404ea91-5647-4f87-a5ce-9e034d0117f3.png"
+            }
+        },
+        {
+            "id": "60576b81-68a1-4c66-a796-7602f80a0935",
+            "firstCreated": "20130228142350",
+            "version": 5,
+            "lastModified": "20130904112205",
+            "active": true,
+            "title": "1+1 International",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "31fee258-cd46-43c4-b2a1-0a06ddabe91c",
+                    "version": 1,
+                    "dateCreated": "20130829072318",
+                    "lastModified": "20130829072318",
+                    "alias": "ITV",
+                    "countryCode": "FR",
+                    "facilityId": "e3c7e3fe-fef3-4f87-9261-c5737937c323",
+                    "facilityName": "Hotel Ampere"
+                },
+                {
+                    "id": "5741834a-998d-4b5f-941e-0cb43f7d3fa4",
+                    "version": 1,
+                    "dateCreated": "20130904112205",
+                    "lastModified": "20130904112205",
+                    "alias": "Euronews",
+                    "countryCode": "FR",
+                    "facilityId": "e3c7e3fe-fef3-4f87-9261-c5737937c323",
+                    "facilityName": "Hotel Ampere"
+                },
+                {
+                    "id": "5b4d5e87-3f1e-4a38-a4fd-7cf2277cf4e8",
+                    "version": 1,
+                    "dateCreated": "20130523113651",
+                    "lastModified": "20130523113651",
+                    "alias": "1TV (ru)",
+                    "countryCode": "FI",
+                    "facilityId": "15c68421-7d0b-46e4-8384-78ffcda8ffc3",
+                    "facilityName": "imatrankylpyla"
+                },
+                {
+                    "id": "6f12aa22-2030-40ca-bb67-193dbbcd55e2",
+                    "version": 1,
+                    "dateCreated": "20130805162212",
+                    "lastModified": "20130805162212",
+                    "alias": "NaGeo",
+                    "countryCode": "KE",
+                    "facilityId": "d02faf7a-2f81-43a6-9688-3ba4774a9258",
+                    "facilityName": "Villa Rosa Kempinski Nairobi"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/60576b81-68a1-4c66-a796-7602f80a0935.png"
+            }
+        },
+        {
+            "id": "7fa2ce90-5c0d-4c57-b3d1-b8c6ac71848d",
+            "firstCreated": "20121101101938",
+            "version": 4,
+            "lastModified": "20130806092446",
+            "active": true,
+            "title": "1Live",
+            "type": "Radio",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "ad619f0a-ce85-4d3c-8fae-4405e794e630",
+                    "version": 1,
+                    "dateCreated": "20130806092155",
+                    "lastModified": "20130806092155",
+                    "alias": "1LIVE",
+                    "countryCode": "DE",
+                    "facilityId": "2a0bb2c8-c69a-416d-81f3-0f09ab407f77",
+                    "facilityName": "Four Points By Sheraton M\u00FCnchen Olympiapark"
+                },
+                {
+                    "id": "ae5cb526-de68-4f73-92cb-33e821b108c8",
+                    "version": 1,
+                    "dateCreated": "20130805162613",
+                    "lastModified": "20130805162613",
+                    "alias": "AMag",
+                    "countryCode": "KE",
+                    "facilityId": "d02faf7a-2f81-43a6-9688-3ba4774a9258",
+                    "facilityName": "Villa Rosa Kempinski Nairobi"
+                },
+                {
+                    "id": "e951e843-dc48-4462-a58a-87072a89a983",
+                    "version": 1,
+                    "dateCreated": "20130806092446",
+                    "lastModified": "20130806092446",
+                    "alias": "1Live",
+                    "countryCode": "DE",
+                    "facilityId": "2a0bb2c8-c69a-416d-81f3-0f09ab407f77",
+                    "facilityName": "Four Points By Sheraton M\u00FCnchen Olympiapark"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/7fa2ce90-5c0d-4c57-b3d1-b8c6ac71848d.png"
+            }
+        },
+        {
+            "id": "d36fd914-ffeb-4478-976e-84d1b8cca9fa",
+            "firstCreated": "20120808144036",
+            "version": 1,
+            "lastModified": "20120808144036",
+            "active": true,
+            "title": "1Live diggi",
+            "type": "Radio",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/d36fd914-ffeb-4478-976e-84d1b8cca9fa.png"
+            }
+        },
+        {
+            "id": "a2f69c32-512f-4644-8e57-2907a14818fa",
+            "firstCreated": "20130411121744",
+            "version": 10,
+            "lastModified": "20130926143918",
+            "active": true,
+            "title": "1TV (ru)",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "097637f3-e060-4513-b6b8-1e9b73da0cc5",
+                    "version": 1,
+                    "dateCreated": "20130923132759",
+                    "lastModified": "20130923132759",
+                    "alias": "1TVRUS Europe",
+                    "countryCode": "RU",
+                    "facilityId": "334f99fd-60aa-44f2-928f-2c64269eaffd",
+                    "facilityName": "AZIMUT Sochi Resort and SPA"
+                },
+                {
+                    "id": "6f504cb5-c65c-41ae-ab06-b4d183d23b08",
+                    "version": 1,
+                    "dateCreated": "20130904111032",
+                    "lastModified": "20130904111032",
+                    "alias": "Channel One",
+                    "countryCode": "FR",
+                    "facilityId": "e3c7e3fe-fef3-4f87-9261-c5737937c323",
+                    "facilityName": "Hotel Ampere"
+                },
+                {
+                    "id": "7b160fc8-d240-4cd3-b9d8-fd298af1be34",
+                    "version": 1,
+                    "dateCreated": "20130523101227",
+                    "lastModified": "20130523101227",
+                    "alias": "1TVRUS Europe",
+                    "countryCode": "FI",
+                    "facilityId": "15c68421-7d0b-46e4-8384-78ffcda8ffc3",
+                    "facilityName": "imatrankylpyla"
+                },
+                {
+                    "id": "8151be69-6289-41b7-9bab-5cb941849ea0",
+                    "version": 1,
+                    "dateCreated": "20130506153045",
+                    "lastModified": "20130506153045",
+                    "alias": "1TVRUS Euope",
+                    "countryCode": "QA",
+                    "facilityId": "c07dfe9b-127d-4eb7-9d74-097ad7ddce48",
+                    "facilityName": "HILTON DOHA"
+                },
+                {
+                    "id": "97b3fdbb-a6fe-426c-adbb-b10f61d583df",
+                    "version": 1,
+                    "dateCreated": "20130926143918",
+                    "lastModified": "20130926143918",
+                    "alias": "1TVRUS Europe",
+                    "countryCode": "RU",
+                    "facilityId": "9a95c8c1-b5d7-4e68-93c5-2967a50277d7",
+                    "facilityName": "Azimut Apart Hotel Sochi"
+                },
+                {
+                    "id": "afa2a650-6f9b-47ae-b7bb-bbce3e4bf605",
+                    "version": 1,
+                    "dateCreated": "20130704091249",
+                    "lastModified": "20130704091249",
+                    "alias": "1TVRUS Europe",
+                    "countryCode": "IT",
+                    "facilityId": "99f997e3-7f3c-4bd0-a351-8b5aaffd1895",
+                    "facilityName": "Hotel Litta Palace"
+                },
+                {
+                    "id": "c8beade6-4a37-4494-9a2b-f462b73f1f40",
+                    "version": 1,
+                    "dateCreated": "20130523113737",
+                    "lastModified": "20130523113737",
+                    "alias": "ITV 1",
+                    "countryCode": "FI",
+                    "facilityId": "15c68421-7d0b-46e4-8384-78ffcda8ffc3",
+                    "facilityName": "imatrankylpyla"
+                },
+                {
+                    "id": "eb5e45da-13f8-436a-9025-c45a70040125",
+                    "version": 1,
+                    "dateCreated": "20130923132456",
+                    "lastModified": "20130923132456",
+                    "alias": "1TVRUS Europe",
+                    "countryCode": "RU",
+                    "facilityId": "9a95c8c1-b5d7-4e68-93c5-2967a50277d7",
+                    "facilityName": "Azimut Apart Hotel Sochi"
+                },
+                {
+                    "id": "f9f8bcfd-3c56-4cf5-a33f-7bafa1b930c4",
+                    "version": 1,
+                    "dateCreated": "20130704101911",
+                    "lastModified": "20130704101911",
+                    "alias": "1TVRUS Europe",
+                    "countryCode": "FI",
+                    "facilityId": "476ab796-8142-4ef7-85ee-0dc694a0190f",
+                    "facilityName": "Hilton Helsinki Kalastajatorppa"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/a2f69c32-512f-4644-8e57-2907a14818fa.png"
+            }
+        },
+        {
+            "id": "e49cad62-93bb-4e5a-bc13-c2c3be2c4f96",
+            "firstCreated": "20130226104352",
+            "version": 4,
+            "lastModified": "20130227175053",
+            "active": true,
+            "title": "2BE",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "4d90e1fb-3dcd-4866-b395-4ffa91375093",
+                    "version": 1,
+                    "dateCreated": "20130227175053",
+                    "lastModified": "20130227175053",
+                    "alias": "test2",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                },
+                {
+                    "id": "b2edb11c-8be7-4290-8052-ac3d0cb69354",
+                    "version": 1,
+                    "dateCreated": "20130227172445",
+                    "lastModified": "20130227172445",
+                    "alias": "Bjorn Test Channel",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                },
+                {
+                    "id": "d5c855a0-5ece-4537-bf63-634f9688c805",
+                    "version": 1,
+                    "dateCreated": "20130227173441",
+                    "lastModified": "20130227173441",
+                    "alias": "test1",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/e49cad62-93bb-4e5a-bc13-c2c3be2c4f96.png"
+            }
+        },
+        {
+            "id": "01030f4b-a2fa-45fa-8345-1df2402cd7a2",
+            "firstCreated": "20120326150940",
+            "version": 6,
+            "lastModified": "20130704210030",
+            "active": true,
+            "title": "2M",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "6d89666f-4a09-41c1-87e7-1ea6a4bc67e3",
+                    "version": 1,
+                    "dateCreated": "20130423153623",
+                    "lastModified": "20130423153623",
+                    "alias": "My Test Channel3",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                },
+                {
+                    "id": "747de649-61c6-407b-9dde-626672a7d4b4",
+                    "version": 1,
+                    "dateCreated": "20130704210030",
+                    "lastModified": "20130704210030",
+                    "alias": "2M Maroc",
+                    "countryCode": "IT",
+                    "facilityId": "99f997e3-7f3c-4bd0-a351-8b5aaffd1895",
+                    "facilityName": "Hotel Litta Palace"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/01030f4b-a2fa-45fa-8345-1df2402cd7a2.png"
+            }
+        },
+        {
+            "id": "1f613e1c-7745-4315-9718-83aea8402374",
+            "firstCreated": "20080411160000",
+            "version": 2,
+            "lastModified": "20130620151720",
+            "active": true,
+            "title": "2M Monde",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "ac6ffbf1-a143-4ee2-a182-217098270c6e",
+                    "version": 1,
+                    "dateCreated": "20130620151720",
+                    "lastModified": "20130620151720",
+                    "alias": "2M Maroc",
+                    "countryCode": "FR",
+                    "facilityId": "e5ed6929-960b-40d1-b57e-9e847a6a1ec9",
+                    "facilityName": "Intercontinental Paris Avenue Marceau"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/1f613e1c-7745-4315-9718-83aea8402374.png"
+            }
+        },
+        {
+            "id": "75eccd2f-be2c-4a7c-8da8-a41cab3879b3",
+            "firstCreated": "20071201120000",
+            "version": 8,
+            "lastModified": "20130904111414",
+            "active": true,
+            "title": "3Sat",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "21ede420-da7c-40a1-85b7-a0ad4eaf6255",
+                    "version": 1,
+                    "dateCreated": "20130805163455",
+                    "lastModified": "20130805163455",
+                    "alias": "MAct+",
+                    "countryCode": "KE",
+                    "facilityId": "d02faf7a-2f81-43a6-9688-3ba4774a9258",
+                    "facilityName": "Villa Rosa Kempinski Nairobi"
+                },
+                {
+                    "id": "6df34827-39b3-4a8c-9e7a-f4a5e8023a67",
+                    "version": 1,
+                    "dateCreated": "20130410104820",
+                    "lastModified": "20130410104820",
+                    "alias": "BBC 1 London",
+                    "countryCode": "NO",
+                    "facilityId": "0e6ef7f8-ed62-4f86-9b80-21da734534f4",
+                    "facilityName": "Otrum Enterprise Smart TV Demo Hotel"
+                },
+                {
+                    "id": "81c699d9-c64c-479a-9855-a6b81cc9e835",
+                    "version": 1,
+                    "dateCreated": "20130325102358",
+                    "lastModified": "20130325102358",
+                    "alias": "3 Sat",
+                    "countryCode": "BE",
+                    "facilityId": "5d10fed9-4cf6-4b62-ba91-94d987d8b58d",
+                    "facilityName": "Warwick Barsey Hotel Brussels"
+                },
+                {
+                    "id": "b2c551f1-67f8-4828-82a7-b663176f7d71",
+                    "version": 1,
+                    "dateCreated": "20130725121913",
+                    "lastModified": "20130725121913",
+                    "alias": "3 SAT",
+                    "countryCode": "FR",
+                    "facilityId": "7e3d1b64-f519-4968-a424-cd2943ff9625",
+                    "facilityName": "Manoir de Gressy"
+                },
+                {
+                    "id": "d7ca6f0a-c2d9-40b0-8285-c0918d6a3c71",
+                    "version": 1,
+                    "dateCreated": "20130904111414",
+                    "lastModified": "20130904111414",
+                    "alias": "3 SAT",
+                    "countryCode": "FR",
+                    "facilityId": "e3c7e3fe-fef3-4f87-9261-c5737937c323",
+                    "facilityName": "Hotel Ampere"
+                },
+                {
+                    "id": "ed27148c-3fbe-4522-b89d-d76fcade2119",
+                    "version": 1,
+                    "dateCreated": "20130301004448",
+                    "lastModified": "20130301004448",
+                    "alias": "3 Sat",
+                    "countryCode": "BE",
+                    "facilityId": "01bd3f90-2707-4406-a223-09cf918c1a76",
+                    "facilityName": "Royal Windsor Hotel Grand Place"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/75eccd2f-be2c-4a7c-8da8-a41cab3879b3.png"
+            }
+        },
+        {
+            "id": "5dda643d-aae0-407b-a97a-2c56bfe960de",
+            "firstCreated": "20121109120650",
+            "version": 1,
+            "lastModified": "20121109120650",
+            "active": true,
+            "title": "3sat HD",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/5dda643d-aae0-407b-a97a-2c56bfe960de.png"
+            }
+        },
+        {
+            "id": "46ef37cd-eb20-102f-8a92-66ba7312fdc2",
+            "firstCreated": "20120509141301",
+            "version": 2,
+            "lastModified": "20130423152823",
+            "active": true,
+            "title": "4Music",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "bc98c28e-c4db-4cbf-8bfc-5dec47fd0c36",
+                    "version": 1,
+                    "dateCreated": "20130423152823",
+                    "lastModified": "20130423152823",
+                    "alias": "My Test Channel3",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/46ef37cd-eb20-102f-8a92-66ba7312fdc2.png"
+            }
+        },
+        {
+            "id": "46f4582d-eb20-102f-8a92-66ba7312fdc2",
+            "firstCreated": "20120509141301",
+            "version": 2,
+            "lastModified": "20130523093912",
+            "active": true,
+            "title": "5*",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "f997df7d-54ff-4736-a086-3e3f4b0e2e6f",
+                    "version": 1,
+                    "dateCreated": "20130523093912",
+                    "lastModified": "20130523093912",
+                    "alias": "test",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/46f4582d-eb20-102f-8a92-66ba7312fdc2.png"
+            }
+        },
+        {
+            "id": "46f9cfba-eb20-102f-8a92-66ba7312fdc2",
+            "firstCreated": "20120509141301",
+            "version": 2,
+            "lastModified": "20121022134727",
+            "active": true,
+            "title": "5USA",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/46f9cfba-eb20-102f-8a92-66ba7312fdc2.png"
+            }
+        },
+        {
+            "id": "e0da77c9-b466-44e7-b33d-61cada715ed6",
+            "firstCreated": "20121213143821",
+            "version": 2,
+            "lastModified": "20130904112518",
+            "active": true,
+            "title": "6ter",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "865294b7-7094-40da-a667-46997cdf0752",
+                    "version": 1,
+                    "dateCreated": "20130904112518",
+                    "lastModified": "20130904112518",
+                    "alias": "Num\u00E9ro 23",
+                    "countryCode": "FR",
+                    "facilityId": "e3c7e3fe-fef3-4f87-9261-c5737937c323",
+                    "facilityName": "Hotel Ampere"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/e0da77c9-b466-44e7-b33d-61cada715ed6.png"
+            }
+        },
+        {
+            "id": "68dacd37-6279-4557-b5f0-87b9c4bf8279",
+            "firstCreated": "20130522124526",
+            "version": 2,
+            "lastModified": "20130601190113",
+            "active": true,
+            "title": "A Haber HD",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "64383ecc-d199-485d-a470-c05f98b79df8",
+                    "version": 1,
+                    "dateCreated": "20130601190113",
+                    "lastModified": "20130601190113",
+                    "alias": "A HABER HD",
+                    "countryCode": "TR",
+                    "facilityId": "2fbcacbe-6328-44f4-85f3-86533f0c1eee",
+                    "facilityName": "THE RITZ-CARLTON, \u0130STANBUL"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/68dacd37-6279-4557-b5f0-87b9c4bf8279.png"
+            }
+        },
+        {
+            "id": "a325d467-241d-40ed-91d5-a0466cf41f96",
+            "firstCreated": "20130226104137",
+            "version": 2,
+            "lastModified": "20130227175114",
+            "active": true,
+            "title": "AB3",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "621b8be8-8e8c-44a0-a1c6-fb1f4e46383b",
+                    "version": 1,
+                    "dateCreated": "20130227175114",
+                    "lastModified": "20130227175114",
+                    "alias": "2BE",
+                    "countryCode": "NO",
+                    "facilityId": "3f6d7996-43d5-477a-81cf-c0d1af3e8420",
+                    "facilityName": "Bjorns Inn"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/a325d467-241d-40ed-91d5-a0466cf41f96.png"
+            }
+        },
+        {
+            "id": "076b09fa-3115-403f-b0cc-1cda9ef40a99",
+            "firstCreated": "20130226104155",
+            "version": 1,
+            "lastModified": "20130226104155",
+            "active": true,
+            "title": "AB4",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/076b09fa-3115-403f-b0cc-1cda9ef40a99.png"
+            }
+        },
+        {
+            "id": "ca93796c-6398-4628-b938-5bf74b1a1c34",
+            "firstCreated": "20130410091412",
+            "version": 2,
+            "lastModified": "20130410104233",
+            "active": true,
+            "title": "ABP News India",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "8515ce5d-bedc-4c4f-8640-5e2f22d0c94e",
+                    "version": 1,
+                    "dateCreated": "20130410104233",
+                    "lastModified": "20130410104233",
+                    "alias": "ABP News Hindi",
+                    "countryCode": "NO",
+                    "facilityId": "0e6ef7f8-ed62-4f86-9b80-21da734534f4",
+                    "facilityName": "Otrum Enterprise Smart TV Demo Hotel"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/ca93796c-6398-4628-b938-5bf74b1a1c34.png"
+            }
+        },
+        {
+            "id": "bb38d3a6-a04f-4835-8484-464a1ab87808",
+            "firstCreated": "20130924172247",
+            "version": 1,
+            "lastModified": "20130924172247",
+            "active": true,
+            "title": "Abu Dhabi Al Emarat",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/bb38d3a6-a04f-4835-8484-464a1ab87808.png"
+            }
+        },
+        {
+            "id": "b70b689b-5213-4585-97cd-cea979c54a2c",
+            "firstCreated": "20121031144606",
+            "version": 6,
+            "lastModified": "20130923135758",
+            "active": true,
+            "title": "Abu Dhabi Al Oula",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "8d308bac-bd2a-4814-94d4-2cfeda219998",
+                    "version": 1,
+                    "dateCreated": "20130829072229",
+                    "lastModified": "20130829072229",
+                    "alias": "La chaine parlementaire",
+                    "countryCode": "FR",
+                    "facilityId": "e3c7e3fe-fef3-4f87-9261-c5737937c323",
+                    "facilityName": "Hotel Ampere"
+                },
+                {
+                    "id": "dc321190-ea84-4c2f-8414-58d343d82bfa",
+                    "version": 1,
+                    "dateCreated": "20130417094910",
+                    "lastModified": "20130417094910",
+                    "alias": "AD AlOula",
+                    "countryCode": "DE",
+                    "facilityId": "747868af-ee17-4d65-b616-ed0d420d6595",
+                    "facilityName": "Le Royal Meridien Hamburg"
+                },
+                {
+                    "id": "dd0e325b-ce68-493f-bb3d-bac067d09db2",
+                    "version": 1,
+                    "dateCreated": "20130923135758",
+                    "lastModified": "20130923135758",
+                    "alias": "AD AL-OULA",
+                    "countryCode": "JO",
+                    "facilityId": "9cfbc87f-cfcf-4197-86b3-e04de0964351",
+                    "facilityName": "Movenpick Resort and Spa Tala Bay"
+                },
+                {
+                    "id": "dd7a7d3f-0a57-43c3-9a20-f0268d79b4bb",
+                    "version": 1,
+                    "dateCreated": "20130806120808",
+                    "lastModified": "20130806120808",
+                    "alias": "AD AlOula",
+                    "countryCode": "GB",
+                    "facilityId": "500c03d8-e5a7-4231-980e-05fdd9ec6a6c",
+                    "facilityName": "Corinthia Trial Hotel"
+                },
+                {
+                    "id": "f67a003a-a6c4-4021-a3b0-97618944bba1",
+                    "version": 1,
+                    "dateCreated": "20130514203113",
+                    "lastModified": "20130514203113",
+                    "alias": "AD AlOula",
+                    "countryCode": "TR",
+                    "facilityId": "2fbcacbe-6328-44f4-85f3-86533f0c1eee",
+                    "facilityName": "THE RITZ-CARLTON, \u0130STANBUL"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/b70b689b-5213-4585-97cd-cea979c54a2c.png"
+            }
+        },
+        {
+            "id": "7060cbc8-df2f-102f-8a92-66ba7312fdc2",
+            "firstCreated": "20120424093039",
+            "version": 2,
+            "lastModified": "20130923142000",
+            "active": true,
+            "title": "Abu Dhabi Drama",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "e3f85305-521d-4501-b1e8-3d254c208c63",
+                    "version": 1,
+                    "dateCreated": "20130923142000",
+                    "lastModified": "20130923142000",
+                    "alias": "AD DRAMA",
+                    "countryCode": "JO",
+                    "facilityId": "9cfbc87f-cfcf-4197-86b3-e04de0964351",
+                    "facilityName": "Movenpick Resort and Spa Tala Bay"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/7060cbc8-df2f-102f-8a92-66ba7312fdc2.png"
+            }
+        },
+        {
+            "id": "9232d27c-0807-4841-bf01-b9612167e121",
+            "firstCreated": "20120326152502",
+            "version": 1,
+            "lastModified": "20120326152502",
+            "active": true,
+            "title": "Abu Dhabi Radio",
+            "type": "Radio",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/9232d27c-0807-4841-bf01-b9612167e121.png"
+            }
+        },
+        {
+            "id": "f558917a-b5d2-4f94-b28c-9747299f307f",
+            "firstCreated": "20120326150940",
+            "version": 3,
+            "lastModified": "20130806120620",
+            "active": true,
+            "title": "Abu Dhabi Sports",
+            "type": "TV",
+            "categories": [
+                "9d3f86d7-d618-40bb-a6c3-c3d795e7fbe4"
+            ],
+            "aliases": [
+                {
+                    "id": "684bfb92-8c6f-45a1-9840-77e89d01258f",
+                    "version": 1,
+                    "dateCreated": "20130806120620",
+                    "lastModified": "20130806120620",
+                    "alias": "AD SPORT1",
+                    "countryCode": "GB",
+                    "facilityId": "500c03d8-e5a7-4231-980e-05fdd9ec6a6c",
+                    "facilityName": "Corinthia Trial Hotel"
+                },
+                {
+                    "id": "7cc8a2c6-e126-482b-a484-e3143163c560",
+                    "version": 1,
+                    "dateCreated": "20130805163253",
+                    "lastModified": "20130805163253",
+                    "alias": "SLCT2",
+                    "countryCode": "KE",
+                    "facilityId": "d02faf7a-2f81-43a6-9688-3ba4774a9258",
+                    "facilityName": "Villa Rosa Kempinski Nairobi"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/f558917a-b5d2-4f94-b28c-9747299f307f.png"
+            }
+        },
+        {
+            "id": "e4c7bebf-6397-4f70-842e-e696d6b0ca47",
+            "firstCreated": "20121031144629",
+            "version": 7,
+            "lastModified": "20130923135842",
+            "active": true,
+            "title": "Abu Dhabi Sports 1",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "876ab717-156d-4aac-82a6-97821b27e5f3",
+                    "version": 1,
+                    "dateCreated": "20130602171955",
+                    "lastModified": "20130602171955",
+                    "alias": "AD SPORT1",
+                    "countryCode": "TR",
+                    "facilityId": "13b4d7ee-1739-4caa-83b1-c78abb4f3b29",
+                    "facilityName": "\u00C7\u0131ra\u011Fan Palace Kempinski Hotel"
+                },
+                {
+                    "id": "89a79dda-0693-40ef-94b3-e3e155f79322",
+                    "version": 1,
+                    "dateCreated": "20130124204311",
+                    "lastModified": "20130124204311",
+                    "alias": "AD SPORT 1",
+                    "countryCode": "TR",
+                    "facilityId": "c715b44f-e8c2-4042-b727-7f2c7e9d3b40",
+                    "facilityName": "JW Marr\u0131ott Hotel Ankara"
+                },
+                {
+                    "id": "8a7b20de-aabf-4007-b131-35a098383b6d",
+                    "version": 1,
+                    "dateCreated": "20130506154838",
+                    "lastModified": "20130506154838",
+                    "alias": "AD Sport1",
+                    "countryCode": "QA",
+                    "facilityId": "c07dfe9b-127d-4eb7-9d74-097ad7ddce48",
+                    "facilityName": "HILTON DOHA"
+                },
+                {
+                    "id": "8b3e480a-ef34-468f-93f3-520e7a5cc581",
+                    "version": 1,
+                    "dateCreated": "20130202123334",
+                    "lastModified": "20130202123334",
+                    "alias": "AD SPORT 1",
+                    "countryCode": "TR",
+                    "facilityId": "9b72121e-8926-406e-9439-28f234409834",
+                    "facilityName": "JW Marriott Hotel Ankara"
+                },
+                {
+                    "id": "944a7adb-aa3f-4e05-b574-f8bae6c6c028",
+                    "version": 1,
+                    "dateCreated": "20130923135842",
+                    "lastModified": "20130923135842",
+                    "alias": "AD SPORT 1",
+                    "countryCode": "JO",
+                    "facilityId": "9cfbc87f-cfcf-4197-86b3-e04de0964351",
+                    "facilityName": "Movenpick Resort and Spa Tala Bay"
+                },
+                {
+                    "id": "c0ebf564-9c42-4472-9843-491208a4af36",
+                    "version": 1,
+                    "dateCreated": "20130620151648",
+                    "lastModified": "20130620151648",
+                    "alias": "AD SPORT1",
+                    "countryCode": "FR",
+                    "facilityId": "e5ed6929-960b-40d1-b57e-9e847a6a1ec9",
+                    "facilityName": "Intercontinental Paris Avenue Marceau"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/e4c7bebf-6397-4f70-842e-e696d6b0ca47.png"
+            }
+        },
+        {
+            "id": "3f34c1cb-d4e4-4eec-9c7e-12bc44dbd9f8",
+            "firstCreated": "20121031144650",
+            "version": 5,
+            "lastModified": "20130923135825",
+            "active": true,
+            "title": "Abu Dhabi Sports 2",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+                {
+                    "id": "039ec7ee-afb6-4e14-b68b-33f0f6640260",
+                    "version": 1,
+                    "dateCreated": "20130506155018",
+                    "lastModified": "20130506155018",
+                    "alias": "AD Sport2",
+                    "countryCode": "QA",
+                    "facilityId": "c07dfe9b-127d-4eb7-9d74-097ad7ddce48",
+                    "facilityName": "HILTON DOHA"
+                },
+                {
+                    "id": "6dff2177-471d-4fd3-a73d-2090d07313a5",
+                    "version": 1,
+                    "dateCreated": "20130202123349",
+                    "lastModified": "20130202123349",
+                    "alias": "AD Sport 2",
+                    "countryCode": "TR",
+                    "facilityId": "9b72121e-8926-406e-9439-28f234409834",
+                    "facilityName": "JW Marriott Hotel Ankara"
+                },
+                {
+                    "id": "a5e6c22e-7810-441b-b76a-f8b9b3b0a0a7",
+                    "version": 1,
+                    "dateCreated": "20130923135825",
+                    "lastModified": "20130923135825",
+                    "alias": "AD Sport 2",
+                    "countryCode": "JO",
+                    "facilityId": "9cfbc87f-cfcf-4197-86b3-e04de0964351",
+                    "facilityName": "Movenpick Resort and Spa Tala Bay"
+                },
+                {
+                    "id": "f11d7bbd-b1bc-4e3d-959a-682912a76eec",
+                    "version": 1,
+                    "dateCreated": "20130124204329",
+                    "lastModified": "20130124204329",
+                    "alias": "AD Sport 2",
+                    "countryCode": "TR",
+                    "facilityId": "c715b44f-e8c2-4042-b727-7f2c7e9d3b40",
+                    "facilityName": "JW Marr\u0131ott Hotel Ankara"
+                }
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/3f34c1cb-d4e4-4eec-9c7e-12bc44dbd9f8.png"
+            }
+        },
+        {
+            "id": "0b682f9b-0384-4198-8a11-9f785e69bba6",
+            "firstCreated": "20121108100345",
+            "version": 1,
+            "lastModified": "20121108100345",
+            "active": true,
+            "title": "Abu Dhabi Sports 3",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/0b682f9b-0384-4198-8a11-9f785e69bba6.png"
+            }
+        },
+        {
+            "id": "5c35d3b6-fed9-4d9c-9066-b60958c8a271",
+            "firstCreated": "20121108100418",
+            "version": 1,
+            "lastModified": "20121108100418",
+            "active": true,
+            "title": "Abu Dhabi Sports 4",
+            "type": "TV",
+            "categories": [
+
+            ],
+            "aliases": [
+
+            ],
+            "resources": {
+                "logo-button": "/1.0/image/mediachannel/logo-button/5c35d3b6-fed9-4d9c-9066-b60958c8a271.png"
+            }
+        }
+    ],
+    "type": "CHANNEL",
+    "version": "1.1",
+    "handleTimeMillis": 499
+}
